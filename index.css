@@ -1,0 +1,5 @@
+#itemInput, #quantityInput{
+  position: relative;
+  float: right;
+  background-color: blue;
+}
